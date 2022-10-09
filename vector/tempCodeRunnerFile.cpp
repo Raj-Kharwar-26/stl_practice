@@ -1,0 +1,1 @@
+cout<<find(arr.begin(),arr.end(),5);
